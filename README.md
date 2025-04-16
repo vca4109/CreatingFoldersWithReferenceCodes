@@ -1,4 +1,4 @@
-📁 Auto-Folder Creator Script (Python)
+📁 Auto-Folder Creator Script (Python)-
 This simple Python script automates the creation of multiple folders following a specific naming pattern. It’s especially useful for preparing directory structures for projects, document control, or file organization.
 
 🔧 How It Works
