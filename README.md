@@ -23,6 +23,6 @@ Dynamic Naming Based on a Reference Code
 
 Easily Customizable Parameters
 
-📌 Use Case
+Use Case
 This is helpful in administrative, engineering, or construction documentation processes where a series of folder references need to follow a structured naming convention.
 
